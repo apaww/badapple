@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "badapple:block/apple_block"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "item.badapple.super_apple": "Super Apple",
+  "item.badapple.cooked_super_apple": "Super Duper Apple",
+  "item.badapple.apple_block": "Block of Apples",
+  "item.badapple.error_block": "ERROR",
+
+  "block.badapple.apple_block": "Block of Apples",
+  "block.badapple.error_block": "ERROR",
+
+  "itemgroup.badapple.bad_apple_items": "Bad Apple Items",
+  "itemgroup.badapple.bad_apple_blocks": "Bad Apple Blocks"
+}
